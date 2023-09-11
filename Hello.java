@@ -4,5 +4,7 @@ class Hello {
         System.out.println("Hello again");
 
         // Hvorfor fuck virker det ikke?
+
+        // Fordi det er et lorte program
     }
 }
